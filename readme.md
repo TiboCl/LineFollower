@@ -9,17 +9,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: Arduino Nano 33 IOT
 <br />
-motors: 
+motors: 50:1 Micro Metal Gearmotor HPCB 6V
 <br />
-h-bridge:
+h-bridge: DRV8833 Dual Motor Driver Carrier
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: ZIPPY Compact 1500mAh 2S 40C Lipo Pack 
 <br />
-wireless communication:
+wireless communication: Arduino Nano 33 IOT
 <br />
 distance sensor - motors:
 <br />
